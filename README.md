@@ -4,9 +4,9 @@
 
 ### Software Engineer | professional Portfolio Website
 
-A responsive professional portfolio webiste that presents my work, skills, about me, and  my contacts to the world of tech.
+A responsive professional portfolio website that presents my work, skills, about me, and  my contacts to the world of tech.
 
-[Live Site](https://joel-dev213.github.io/Portfolio/) · [GitHub Profile](https://github.com/joel-dev213)
+[Live Site]( https://joel-dev213.github.io/Joel-portfolio/) · [GitHub Profile](https://github.com/joel-dev213)
 
 </div>
 
